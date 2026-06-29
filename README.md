@@ -28,7 +28,7 @@ Each folder represents **one day of development**.
 
 # What belongs in each folder?
 
-Each dated folder should contain documentation for everything added, changed, or removed that day.
+Each dated folder contains documentation for everything added, changed, or removed that day.
 
 Examples include:
 
@@ -47,7 +47,7 @@ Examples include:
 
 # Daily README
 
-Every folder should contain its own `README.md`.
+Every folder contains its own `README.md`.
 
 Example:
 
@@ -83,7 +83,7 @@ Most work focused on the submissions system and backend infrastructure.
 
 # Individual Documentation
 
-Whenever a feature becomes large enough, create a separate markdown file for it.
+Whenever a feature becomes large enough, a separate markdown file will be created for it.
 
 Example:
 
@@ -105,7 +105,7 @@ This keeps documentation focused and easy to navigate.
 
 # Naming Convention
 
-Folders should always use the following format:
+Folders will always use the following format:
 
 ```
 YYYY-MM-DD
@@ -119,7 +119,7 @@ Example:
 2026-07-01
 ```
 
-This guarantees chronological ordering across all platforms.
+This guarantees chronological order.
 
 ---
 
