@@ -4,6 +4,8 @@ Welcome to the PlatinumDL development wiki.
 
 This wiki serves as a complete archive of every major change made to PlatinumDL throughout development. Instead of keeping one massive changelog, updates are organized into folders based on the day they were implemented.
 
+To-Dos will be added at Issues because there's no convenient way of doing so.
+
 ---
 
 # Folder Structure
